@@ -14,7 +14,6 @@ require (
 	github.com/redis/go-redis/v9 v9.20.1
 	github.com/rs/zerolog v1.35.1
 	github.com/stretchr/testify v1.11.1
-	github.com/viettrung2103/bookmark-management v0.2.1
 	golang.org/x/crypto v0.53.0
 	gorm.io/driver/postgres v1.6.3
 	gorm.io/driver/sqlite v1.6.0
