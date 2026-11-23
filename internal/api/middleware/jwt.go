@@ -9,7 +9,7 @@ import (
 	"github.com/viettrung2103/bookmark-lib/pkg/response"
 )
 
-// JWTAuth interface
+// JWTAuth interface new interface
 type JWTAuth interface {
 	JWTAuthMiddleWare() gin.HandlerFunc
 }
